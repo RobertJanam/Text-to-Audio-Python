@@ -12,7 +12,7 @@ Transform your text to an audio using a simple python program
    ```bash
    py -3.14 -m venv venv
    ```
-   *Linux/MacOS*
+   - *Linux/MacOS*
    ```bash
    python3 -m venv myenv
    ```
@@ -21,7 +21,7 @@ Transform your text to an audio using a simple python program
    ```bash
    ./venv/Scripts/activate
    ```
-   *Linux/MacOS*
+   - *Linux/MacOS*
    ```bash
    source myenv/bin/activate
    ```
@@ -32,14 +32,13 @@ Transform your text to an audio using a simple python program
 ---
 
 ## Run the program
-1. Run the program on the terminal or press the run button
-   Terminal:
+1. Run the program by pressing the run button or by using the terminal.
    
-   *Windows*
+   - *Windows*
    ```bash
    python main.py
    ```
-   *Linux/MacOS*
+   - *Linux/MacOS*
    ```bash
    python3 main.py
    ```
