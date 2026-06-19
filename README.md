@@ -8,7 +8,7 @@ Transform your text to an audio using a simple python program
 2. Open your terminal.
 3. Create a Virtual Environment:
    For example;
-   *Windows*
+   - *Windows*
    ```bash
    py -3.14 -m venv venv
    ```
@@ -17,7 +17,7 @@ Transform your text to an audio using a simple python program
    python3 -m venv myenv
    ```
 4. Activate Environment
-   *Windows*
+   - *Windows*
    ```bash
    ./venv/Scripts/activate
    ```
